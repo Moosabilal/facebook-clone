@@ -134,7 +134,7 @@ nav{
 }
 
 
- /* second part */
+ 
  .card-menu-wrap{
     position: absolute;
     top: 100%;
@@ -198,7 +198,7 @@ nav{
     margin-right: 15px;
     border-radius: 50%;
 }
-/* part 3 */
+
 .main{
     display: flex;
     margin-top: 60px;
@@ -378,7 +378,7 @@ hr{
 .contact-search img:hover{
     background: #e8e7e7;
 }
-/* fifth part */
+
 .main-center{
     width: 45%;
     margin-left: 28%;
@@ -388,7 +388,7 @@ hr{
     overflow: hidden;
     padding: 20px 20px 0 20px;
 }
-/* sixth part */
+
 .create-post{
     width: 100%;
     height: auto;
